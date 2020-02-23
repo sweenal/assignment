@@ -1,0 +1,89 @@
+{
+    "data": [
+        {
+            "metadata": {
+                "layout": "image-banner-with-tiles",
+                "noOfElements": 4,
+                "backgroundColor": "#313131"
+            },
+            "elements": [
+                {
+                    "imageUrl": "https://as1.ftcdn.net/jpg/02/81/37/84/500_F_281378409_MS86o8CUEegAA91tZfjh9hJTA9Q3O81b.jpg",
+                    "title": "Farm Fresh",
+                    "description": "Portrait of a young woman with grandfather holding baskets full of fresh vegetable harvest in the greenhouse of a small agricultural farm."
+                },
+                {
+                    "imageUrl": "https://as2.ftcdn.net/jpg/02/81/37/79/500_F_281377933_i8hW5RIuPi1axakL1fLKiN5AzKMz5qke.jpg",
+                    "title": "",
+                    "description": ""
+                },
+                {
+                    "imageUrl": "https://as1.ftcdn.net/jpg/02/81/37/70/500_F_281377079_Pz2AT3999uo2fxMtggf7CHQNic8CGELV.jpg",
+                    "title": "",
+                    "description": ""
+                },
+                {
+                    "imageUrl": "https://as1.ftcdn.net/jpg/02/81/26/42/500_F_281264282_PsKorhw88rvUJ2JeR0NUlkbCLMOeIn9X.jpg",
+                    "title": "",
+                    "description": ""
+                },
+                {
+                    "imageUrl": "https://as2.ftcdn.net/jpg/02/81/37/79/500_F_281377977_QW9OY1Dsfu8eviRmuKoP7ifGYKVk3t3J.jpg",
+                    "title": "",
+                    "description": ""
+                },
+                {
+                    "imageUrl": "https://as1.ftcdn.net/jpg/02/81/26/46/500_F_281264619_mwFblk3IZM5HvUAroemgK3d1cYDfZXKB.jpg",
+                    "title": "",
+                    "description": ""
+                }
+
+            ]
+        },
+        {
+            "metadata": {
+                "layout": "info-banner-with-tiles",
+                "noOfElements": 0,
+                "backgroundColor": "#EFEFED"
+            },
+            "elements": [
+                {
+                    "imageUrl": "https://as1.ftcdn.net/jpg/01/56/25/10/500_F_156251085_iZpnp2r1p2qwKoPtAlZ3r4qKbUOil3xJ.jpg",
+                    "title": "Wilderness",
+                    "description": "Brown bear portrait close up. Black and white."
+                },
+                {
+                    "imageUrl": "https://as2.ftcdn.net/jpg/01/28/95/83/500_F_128958393_I621fKrKR2tDl3ps7cRNMvo8t5vtCRAK.jpg",
+                    "title": "Wilderness",
+                    "description": "Brown bear portrait close up. Black and white."
+                },
+                {
+                    "imageUrl": "https://t4.ftcdn.net/jpg/01/52/39/03/240_F_152390336_coj4hytByOz09RvAuMhhMTYjaLJ4YSq0.jpg",
+                    "title": "",
+                    "description": ""
+                },
+                {
+                    "imageUrl": "https://as2.ftcdn.net/jpg/01/33/75/43/500_F_133754346_UtDEDoNWegtMBagCif6B8XSLvGF3IvBc.jpg",
+                    "title": "",
+                    "description": ""
+                },
+                {
+                    "imageUrl": "https://as1.ftcdn.net/jpg/01/33/89/08/500_F_133890890_VS6gDcRsqIt6EW7bqX8y4Go2eEUG8qRU.jpg",
+                    "title": "",
+                    "description": ""
+                },
+                {
+                    "imageUrl": "https://as2.ftcdn.net/jpg/01/28/95/83/500_F_128958393_I621fKrKR2tDl3ps7cRNMvo8t5vtCRAK.jpg",
+                    "title": "",
+                    "description": ""
+                },
+                {
+                    "imageUrl": "https://as2.ftcdn.net/jpg/01/56/22/95/500_F_156229505_OUQSIXCmR5i5oV92SPlvqnTQzjuYvdK9.jpg",
+                    "title": "",
+                    "description": ""
+                }
+
+            ]
+        }
+    ]
+}
